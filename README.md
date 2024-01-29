@@ -46,4 +46,4 @@ An example implementation of `StateManager<TContext>` for the `Example` context.
 For questions or support, please contact pixelrogueart@gmail.com.
 
 ---
-Made with ❤️ by pixelrogue.
+Made with by pixelrogue.
