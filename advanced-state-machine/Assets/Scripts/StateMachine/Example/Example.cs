@@ -7,13 +7,11 @@
     {
 
         [SerializeField, HideInInspector]public GameObject stateManager;
-        [SerializeField, HideInInspector]public Animator animator;
         public Text mainText;
         public bool debug = true;
 
         private void Awake()
         {
-            animator = GetComponent<Animator>();
             stateManager = transform.Find("StateManager").gameObject;
         }
 
